@@ -1,0 +1,4 @@
+项目流程
+1.划分目录结构
+2.引用base.css、normalize.css文件
+3.手动添加vue.config,js文件配置别名，添加.editorconfig规范代码
